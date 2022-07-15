@@ -1,2 +1,2 @@
 # Sui's Speedrunning Investigation Utility for Unity Games
- A utility to display triggers and other goodies to simplifying optimising games and such.
+A utility to display triggers and other goodies to simplifying optimising games and such. Name should have been longer, but this will do... Kappa.
